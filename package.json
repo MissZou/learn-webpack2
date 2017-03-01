@@ -1,0 +1,28 @@
+{
+  "name": "learn-webpack2",
+  "version": "1.0.0",
+  "description": "learn webpack2",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MissZou/learn-webpack2.git"
+  },
+  "keywords": [
+    "webpack2"
+  ],
+  "author": "weiyun.zwy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MissZou/learn-webpack2/issues"
+  },
+  "homepage": "https://github.com/MissZou/learn-webpack2#readme",
+  "devDependencies": {
+    "css-loader": "^0.26.2",
+    "extract-text-webpack-plugin": "^2.0.0",
+    "style-loader": "^0.13.2",
+    "webpack": "^2.2.1"
+  }
+}
